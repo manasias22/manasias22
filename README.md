@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manasias22&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
 
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasias22&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/manasias22/github-readme-stats)
 
 
 
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
-&nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
