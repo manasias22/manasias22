@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 &nbsp; I’m currently learning React and React Native for Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering, Computer programming and Problem solving.
-- 💼 &nbsp; full-stack developer and Data Science.
+- 💼 &nbsp; Full-stack developer and Data Science.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence & Machine Learning .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I belive, Hard work beats talent when talent doesn’t work hard. 
@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 &nbsp; Python | JavaScript | React | C++ |MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
+- 🛢 &nbsp; MySQL | MongoDB | Firebase | Postman
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
-
+- 🔧 &nbsp; Git | Github
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manasias22&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
