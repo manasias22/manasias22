@@ -4,7 +4,6 @@
 manasias22/manasias22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <h1> Hey there! I'm <b>Mrudul Parag Chaudhari</b> 👋 </h1>
 <h2> Pre-Final year Engineering Student of <a  target="_blank"  href="https://vcet.edu.in">Vidyavardhini's College of Engineering and Technology </a> in Computer Engineering stream and Aspiring to be A Software Development Engineer.  </h2>
 
@@ -16,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 &nbsp; I’m currently learning React and React Native for Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineering, Computer programming and Problem solving.
+- 🎓 &nbsp; Studying Computer Engineering, Computer Programming and Problem solving.
 - 💼 &nbsp; Full-stack developer and Data Science.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence & Machine Learning .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
