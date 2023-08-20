@@ -384,10 +384,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 
 
 
-![](https://drive.google.com/file/d/13VDy9PqA34RIPyI-wnP2ZWwoLdRQzlEI/view?type=horizontal&theme=vue)
 
----
-[![](https://visitcount.itsvg.in/api?id=manasias22&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
