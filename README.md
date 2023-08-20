@@ -359,7 +359,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_ico
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631"  width="50" /></a>
 &nbsp; <a href="https://wa.me/9307841328" target="_blank" rel="noopener noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png"  width="50" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" Height="50"  width="50" /></a>
 &nbsp; <a href="https://t.me/@mrudulchaudhari" target="_blank" rel="noopener noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"  width="50" /></a>
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
