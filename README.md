@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1> Hey there! I'm <b>Mrudul Parag Chaudhari</b> 👋 </h1>
-<h2> Pre-Final year Engineering Student of <a  target="_blank"  href="https://vcet.edu.in">Vidyavardhini's College of Engineering and Technology </a> in Computer Engineering stream.
-<p align="left"> and Aspiring to be A Software Development Engineer  </h2>
+<h2> Pre-Final year Engineering Student of <a  target="_blank"  href="https://vcet.edu.in">Vidyavardhini's College of Engineering and Technology </a> in Computer Engineering stream <p align="left"> and Aspiring to be A Software Development Engineer.  </h2>
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500"/>
 
@@ -108,10 +107,46 @@ You can click the Preview link to take a look at your changes.
 > **Framework & Libraries**
 
 > **Database**
- 
+
+<tr>
+ <table>
+  <br>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" width="90" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+     </table>
+</tr>
+
 > **IDEs/Editors**
  
 > **Version Control**
+
+<tr>
+ <table>
+  <br>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png?20160811101906" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="90" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+     </table>
+</tr>
 
 > **Hosting**
 
