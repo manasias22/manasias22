@@ -285,8 +285,14 @@ You can click the Preview link to take a look at your changes.
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" width="48" height="48" alt="Illustrator" />
       </a>
-      <br>Illustrator
-    </td>
+      <br>Illustrator 
+     </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" width="48" height="48" alt="InDesign" />
+      </a>
+      <br>InDesign 
+     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="48" height="48" alt="Canva" />
