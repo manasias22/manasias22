@@ -41,6 +41,40 @@ You can click the Preview link to take a look at your changes.
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 - 🔧 &nbsp; Git | Github
+> **Designing**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" width="48" height="48" alt="Illustrator" />
+      </a>
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="48" height="48" alt="Canva" />
+      </a>
+      <br>Canva
+    </td>
+     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="48" height="48" alt="Canva" />
+      </a>
+      <br>Canva
+    </td>
+   
+  </tr>
+</table>
+
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manasias22&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
@@ -62,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> 
 &nbsp; <a href="https://github.com/manasias22" target="_blank" rel="noopener noreferrer"><img 
 src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://freelogopng.com/image/636" width="50" /></a>
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img 
 src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
