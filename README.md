@@ -31,12 +31,14 @@ You can click the Preview link to take a look at your changes.
 - 💼 &nbsp; Full-stack developer and Data Science.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence & Machine Learning .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1PYDiHS5NnbHEVbjiLmzaHIAq75HLNTMa/view?usp=sharing)
+- 📝 Checkout my [Resume]()
  
 
 
 <h3>🛠 Tech Stack</h3>
 
+<p align="left">
+  
 >**Programming Languages**
 
 <table>
@@ -349,6 +351,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 </details>
 
+![](https://github-profile-trophy.vercel.app/?username=manasias22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h3> 🤝 Connect with Me </h3>
 
@@ -373,8 +376,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 
 
 
-
+<p align="left">
+  
 ### 🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
+</p>
 
 
 
@@ -383,7 +388,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 
 
 
-
+<p align="left">
+  
 # Thank You !!!
 From [manasias22](https://github.com/manasias22)
 With ❤️
