@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 - 💼 &nbsp; Full-stack developer and Data Science.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence & Machine Learning .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1PYDiHS5NnbHEVbjiLmzaHIAq75HLNTMa/view?usp=sharing)
  
 
 
@@ -357,6 +358,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_ico
 &nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" width="50" /></a>
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631"  width="50" /></a>
+&nbsp; <a href="https://wa.me/9307841328" target="_blank" rel="noopener noreferrer"><img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png"  width="50" /></a>
+&nbsp; <a href="https://t.me/@mrudulchaudhari" target="_blank" rel="noopener noreferrer"><img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"  width="50" /></a>
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622"  width="50" /></a>
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
