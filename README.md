@@ -35,24 +35,32 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+       <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+   <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://cdn.cdnlogo.com/logos/r/85/react.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-     <td align="center"  width="96">
       <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="48" height="48" alt="Node JS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="C++" />
       </a>
-      <br>Node JS
-    </td>
+      <br>C++
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
@@ -65,33 +73,15 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Django
     </td>
-    
-    
-  </tr>
+     </tr>
+
+ 
   <tr>
    <td align="center"  width="96">
       <a href="#">
         <img src="https://vitejs.dev/logo-with-shadow.png" width="48" height="48" alt="Vite JS" />
       </a>
       <br>Vite JS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="58" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" width="90" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -120,6 +110,12 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Node JS
     </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="58" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
        </table>
 </tr>
 
@@ -142,7 +138,7 @@ You can click the Preview link to take a look at your changes.
      </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="150"  height="48"  
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png"  height="48"
          alt="Firebase" />
       </a>
       <br>Firebase
@@ -157,17 +153,36 @@ You can click the Preview link to take a look at your changes.
   <br>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
-      <br>MySQL
+      <br>Visual Studio Code
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" width="90" height="48" alt="MongoDB" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/480px-PyCharm_Icon.svg.png"  alt="PyCharm" />
       </a>
-      <br>MongoDB
+      <br>PyCharm
     </td>
-     </table>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png"  alt="Jupyter Notebook " />
+      </a>
+      <br>Jupyter Notebook 
+    </td>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="Sublime Text" />
+      </a>
+      <br>Sublime Text
+    </td>
+     </td>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/640px-Google_Colaboratory_SVG_Logo.svg.png"  alt="Google Collab" />
+      </a>
+      <br>Google Collab
+    </td>
+ </table>
 </tr>
 
 > **Version Control**
@@ -177,13 +192,13 @@ You can click the Preview link to take a look at your changes.
   <br>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/768px-Octicons-mark-github.svg.png" width="90" height="48" alt="Github" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/768px-Octicons-mark-github.svg.png"  alt="Github" />
       </a>
       <br>Github
     </td>
@@ -236,7 +251,7 @@ You can click the Preview link to take a look at your changes.
      </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436" width="48" height="48" alt="Figma" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436" alt="Figma" />
       </a>
       <br>Figma
     </td>
