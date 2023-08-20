@@ -23,17 +23,6 @@ You can click the Preview link to take a look at your changes.
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
  
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -43,7 +32,91 @@ You can click the Preview link to take a look at your changes.
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
 - 🔧 &nbsp; Git | Github
 
+>**Programming Languages**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.cdnlogo.com/logos/r/85/react.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+     <td align="center"  width="96">
+      <a href="#">
+        <img src="https://freecomputerbooks.com/covers/Effective-Django.jpg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    
+    
+  </tr>
+  <tr>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://vitejs.dev/logo-with-shadow.png" width="48" height="48" alt="Vite JS" />
+      </a>
+      <br>Vite JS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="58" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" width="90" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="43" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    
+  </tr>
+</table>
+ <br>
+ 
+> **Framework & Libraries**
+
+> **Database**
+ 
+> **IDEs/Editors**
+ 
+> **Version Control**
+
+> **Hosting**
+
 > **Designing**
+
 
 <table>
   <tr>
