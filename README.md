@@ -106,9 +106,53 @@ You can click the Preview link to take a look at your changes.
  
 > **Framework & Libraries**
 
+<tr>
+ <table>
+         <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.cdnlogo.com/logos/r/85/react.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+     <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+       </table>
+</tr>
+
 > **Database**
 
 <tr>
+ <table>
+  <br>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.jpg" width="90" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+     </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="150"  height="48"  
+         alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+     </table>
+</tr>
+
+> **IDEs/Editors**
+
+ <tr>
  <table>
   <br>
    <td align="center"  width="96">
@@ -126,8 +170,6 @@ You can click the Preview link to take a look at your changes.
      </table>
 </tr>
 
-> **IDEs/Editors**
- 
 > **Version Control**
 
 <tr>
@@ -149,6 +191,24 @@ You can click the Preview link to take a look at your changes.
 </tr>
 
 > **Hosting**
+
+<tr>
+ <table>
+  <br>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/640px-Heroku_logo.svg.png" alt="Heroku" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/640px-Netlify_logo.svg.png"  alt="Netlify" />
+      </a>
+      <br>Netlify
+    </td>
+     </table>
+</tr>
 
 > **Designing**
 
