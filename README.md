@@ -329,7 +329,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/manasias22">
@@ -354,7 +354,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-profile-trophy.vercel.app/?username=manasias22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3> 🤝 Connect with Me </h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px">🤝 Connect with Me 
 
 <p align="center"> 
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
