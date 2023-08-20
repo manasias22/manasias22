@@ -135,13 +135,13 @@ You can click the Preview link to take a look at your changes.
   <br>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png?20160811101906" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="90" height="48" alt="Github" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/768px-Octicons-mark-github.svg.png" width="90" height="48" alt="Github" />
       </a>
       <br>Github
     </td>
