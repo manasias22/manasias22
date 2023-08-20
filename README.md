@@ -149,21 +149,29 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manasias22&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+### ⚙️ &nbsp;GitHub Analytics
 
-<br>
+<p align="center">
+  <a href="https://github.com/manasias22">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manasias22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manasias22&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manasias22&hide_border=true&include_all_commits=true"/>
+  </a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasias22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mrudul's Github Stats">
-
-</br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasias22&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/manasias22/github-readme-stats)
-
-
+<details>
+  <summary> View More Stats 📈</summary>
+  <div>
+    <samp>
+       <br>
+       <p>
+         <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manasias22&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by repo" />  
+         <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manasias22&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by commit" />
+      </p>
+    </samp>
+  </div>
+</details>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -184,12 +192,16 @@ src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=
 
 
 
-### Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
+### 🤝🏻 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
 
 
 
 
 
 
-⭐️ From [manasias22](https://github.com/manasias22)
+
+
+
+# Thank You 
+From [manasias22](https://github.com/manasias22)
 With ❤️
