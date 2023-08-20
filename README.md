@@ -337,7 +337,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝 Connect with Me </h3>
 
 <p align="center"> 
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
@@ -357,7 +357,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 
 
 
-### 🤝🏻 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
+### 🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
 
 
 
