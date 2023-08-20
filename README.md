@@ -356,6 +356,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-profile-trophy.vercel.app/?username=manasias22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
@@ -379,7 +380,14 @@ src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="50" /></a>  
 </p>
 
+### ✍️Random Dev Quote
 
+
+
+![](https://drive.google.com/file/d/13VDy9PqA34RIPyI-wnP2ZWwoLdRQzlEI/view?type=horizontal&theme=vue)
+
+---
+[![](https://visitcount.itsvg.in/api?id=manasias22&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 
