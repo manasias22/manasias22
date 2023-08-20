@@ -49,9 +49,15 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>JavaScript
     </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"  alt="C" />
+      </a>
+      <br>C
+   </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png"  alt="C++" />
       </a>
       <br>C++
       <td align="center" width="96">
@@ -59,6 +65,11 @@ You can click the Preview link to take a look at your changes.
         <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png"  alt="Java" />
       </a>
       <br>Java
+   
+
+ 
+  <tr>
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png"  alt="Python" />
@@ -66,19 +77,7 @@ You can click the Preview link to take a look at your changes.
       <br>Python
     </td>
      </tr>
-
- 
-  <tr>
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="43" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    
-  </tr>
-</table>
+    </table>
  <br>
  
 > **Framework & Libraries**
@@ -119,6 +118,15 @@ You can click the Preview link to take a look at your changes.
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="58" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
+    </td>
+
+
+  <tr>
+   <td align="center"  width="96">
+      <a href="#">
+        <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="43" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
     </td>
        </table>
 </tr>
