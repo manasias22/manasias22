@@ -334,8 +334,8 @@ You can click the Preview link to take a look at your changes.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
-&nbsp; <a href="https://github.com/manasias22" target="_blank" rel="noopener noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="50" /></a>  
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png?20230720031434" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" width="50" /></a>
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631"  width="50" /></a>
@@ -343,6 +343,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%28202
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622"  width="50" /></a>
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
 src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000"  width="50" /></a>
+ &nbsp; <a href="https://github.com/manasias22" target="_blank" rel="noopener noreferrer"><img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="50" /></a>  
 </p>
 
 
