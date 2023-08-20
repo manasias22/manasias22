@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1> Hey there! I'm <b>Mrudul Parag Chaudhari</b> 👋 </h1>
-<h2> Pre-Final year Engineering student and Aspiring Software Development Engineer  </h2>
+<h2> Pre-Final year Engineering Student of <a  target="_blank"  href="https://vcet.edu.in">Vidyavardhini's College of Engineering and Technology </a> in Computer Engineering stream.
+<p align="left"> and Aspiring to be A Software Development Engineer  </h2>
+
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasias22&label=Profile%20views&color=0e75b6&style=flat" alt="manasias22" /> </p>
@@ -19,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 💼 &nbsp; Full-stack developer and Data Science.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence & Machine Learning .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 😴 &nbsp; I belive, Hard work beats talent when talent doesn’t work hard. 
+ 
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -39,8 +41,8 @@ You can click the Preview link to take a look at your changes.
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | Postman
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 - 🔧 &nbsp; Git | Github
+
 > **Designing**
 
 <table>
@@ -66,9 +68,9 @@ You can click the Preview link to take a look at your changes.
      </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="48" height="48" alt="Canva" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436" width="48" height="48" alt="Figma" />
       </a>
-      <br>Canva
+      <br>Figma
     </td>
    
   </tr>
@@ -95,14 +97,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
 &nbsp; <a href="https://github.com/manasias22" target="_blank" rel="noopener noreferrer"><img 
-src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://freelogopng.com/image/636" width="50" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" width="50" /></a>
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img 
-src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631"  width="50" /></a>
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
-src="https://img.icons8.com/plasticine/100/000000/instagram-new.png"  width="50" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622"  width="50" /></a>
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
-src="https://img.icons8.com/plasticine/100/000000/twitter.png"  width="50" /></a>
+src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000"  width="50" /></a>
 </p>
 
 ⭐️ From [manasias22](https://github.com/manasias22)
