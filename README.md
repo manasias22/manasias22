@@ -27,9 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 &nbsp; Python | JavaScript | React | C++ |MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | MongoDB | Firebase | Postman
-- 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
-- 🔧 &nbsp; Git | Github
+
 
 >**Programming Languages**
 
@@ -37,51 +35,40 @@ You can click the Preview link to take a look at your changes.
   <tr>
      <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="HTML" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
        <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="CSS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
    <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="C++" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
       <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="Java" />
+        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png"  alt="Java" />
       </a>
       <br>Java
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png"  alt="Python" />
       </a>
       <br>Python
-    </td>
-     <td align="center"  width="96">
-      <a href="#">
-        <img src="https://freecomputerbooks.com/covers/Effective-Django.jpg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
     </td>
      </tr>
 
  
   <tr>
-   <td align="center"  width="96">
-      <a href="#">
-        <img src="https://vitejs.dev/logo-with-shadow.png" width="48" height="48" alt="Vite JS" />
-      </a>
-      <br>Vite JS
     </td>
     <td align="center"  width="96">
       <a href="#">
@@ -98,11 +85,23 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
  <table>
+     <td align="center"  width="96">
+      <a href="#">
+        <img src="https://freecomputerbooks.com/covers/Effective-Django.jpg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
          <td align="center" width="96">
       <a href="#" >
         <img src="https://cdn.cdnlogo.com/logos/r/85/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+            </td>
+          <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png?20160527092314"  alt="Angular" />
+      </a>
+      <br>Angular
     </td>
      <td align="center"  width="96">
       <a href="#">
@@ -110,6 +109,11 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Node JS
     </td>
+  <td align="center"  width="96">
+      <a href="#">
+        <img src="https://vitejs.dev/logo-with-shadow.png" width="48" height="48" alt="Vite JS" />
+      </a>
+      <br>Vite JS
    <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="58" height="48" alt="Bootstrap" />
@@ -138,7 +142,7 @@ You can click the Preview link to take a look at your changes.
      </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png"  height="48"
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"  height="48"
          alt="Firebase" />
       </a>
       <br>Firebase
