@@ -6,10 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hey there! I'm <b>Mrudul Parag Chaudhari</b> 👋 
 
-### Final year Engineering Student of <a  target="_blank"  href="https://vcet.edu.in">Vidyavardhini's College of Engineering and Technology </a> in Computer Engineering Stream and Aspiring to be A Software Development Engineer_  </h2>
-
-
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500"/>
 
 
 <p align="left">
@@ -19,21 +15,16 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/manasias22?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/manasias22?color=green&logo=github&label=Followers">
   </a> &nbsp &nbsp
-  <a href="">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17417451?color=orange&label=Reputation&logo=stackoverflow">
-  </a> 
   </p>
 
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp;  👨🏻‍💻 About Me 
-
-- 🔭 &nbsp; I’m currently learning React and React Native for Development
+ 👨🏻‍💻 About Me 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering, Computer Programming and Problem solving.
 - 💼 &nbsp; Full-stack developer and Data Science.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence & Machine Learning .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 📝 Checkout my [Resume]()
+
  
 
 
@@ -175,34 +166,34 @@ You can click the Preview link to take a look at your changes.
  <tr>
  <table>
   <br>
-   <td align="center"  width="96">
+   <td align="center">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>Visual Studio Code
     </td>
-    <td align="center"  width="96">
+    <td align="center">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/480px-PyCharm_Icon.svg.png"  alt="PyCharm" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/480px-PyCharm_Icon.svg.png" width="48" height="48" alt="PyCharm" />
       </a>
       <br>PyCharm
     </td>
-   <td align="center"  width="96">
+   <td align="center">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png"  alt="Jupyter Notebook " />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/663px-Jupyter_logo.svg.png" width="48" height="48" alt="Jupyter Notebook " />
       </a>
       <br>Jupyter Notebook 
     </td>
-   <td align="center"  width="96">
+   <td align="center">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="Sublime Text" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="48" height="48"  alt="Sublime Text" />
       </a>
       <br>Sublime Text
     </td>
      </td>
-   <td align="center"  width="96">
+   <td align="center">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/640px-Google_Colaboratory_SVG_Logo.svg.png"  alt="Google Collab" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/640px-Google_Colaboratory_SVG_Logo.svg.png" width="48" height="48" alt="Google Collab" />
       </a>
       <br>Google Collab
     </td>
@@ -216,13 +207,13 @@ You can click the Preview link to take a look at your changes.
   <br>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/768px-Octicons-mark-github.svg.png"  alt="Github" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/768px-Octicons-mark-github.svg.png" width="48" height="48"  alt="Github" />
       </a>
       <br>Github
     </td>
@@ -234,15 +225,15 @@ You can click the Preview link to take a look at your changes.
 <tr>
  <table>
   <br>
-   <td align="center"  width="96">
+   <td align="center">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/640px-Heroku_logo.svg.png" alt="Heroku" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/640px-Heroku_logo.svg.png"   width="72" height="48" alt="Heroku" />
       </a>
       <br>Heroku
     </td>
-    <td align="center"  width="96">
+    <td align="center">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/640px-Netlify_logo.svg.png"  alt="Netlify" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/640px-Netlify_logo.svg.png" width="72"  height="48"  alt="Netlify" />
       </a>
       <br>Netlify
     </td>
@@ -255,13 +246,13 @@ You can click the Preview link to take a look at your changes.
   <br>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/768px-Arduino_IDE_logo.svg.png?20230510165732" alt="Arduino" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/768px-Arduino_IDE_logo.svg.png?20230510165732" width="48" height="48" alt="Arduino" />
       </a>
       <br>Arduino
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://elinux.org/images/thumb/c/cb/Raspberry_Pi_Logo.svg/712px-Raspberry_Pi_Logo.svg.png"  alt="Raspberry Pi" />
+        <img src="https://elinux.org/images/thumb/c/cb/Raspberry_Pi_Logo.svg/712px-Raspberry_Pi_Logo.svg.png" width="48" height="48" alt="Raspberry Pi" />
       </a>
       <br>Raspberry Pi
     </td>
@@ -274,13 +265,13 @@ You can click the Preview link to take a look at your changes.
   <br>
    <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" alt="Windows" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"  alt="Linux" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="48" height="48"  alt="Linux" />
       </a>
       <br>Linux
     </td>
@@ -319,7 +310,7 @@ You can click the Preview link to take a look at your changes.
      </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436" alt="Figma" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436" width="40" height="48" alt="Figma" />
       </a>
       <br>Figma
     </td>
@@ -341,55 +332,24 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<details>
-  <summary> View More Stats 📈</summary>
-  <div>
-    <samp>
-       <br>
-       <p>
-         <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manasias22&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by repo" />  
-         <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manasias22&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by commit" />
-      </p>
-    </samp>
-  </div>
-</details>
-
-![](https://github-profile-trophy.vercel.app/?username=manasias22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px">🤝 Connect with Me 
 
 <p align="center"> 
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png?20230720031434" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/mrudul-chaudhari-7595a523b/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" width="50" /></a>
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631"  width="50" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" height="40" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/mrudulchaudhari2203" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" height="44" /></a>
 &nbsp; <a href="https://wa.me/9307841328" target="_blank" rel="noopener noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" Height="50"  width="50" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" height="55" /></a>
 &nbsp; <a href="https://t.me/@mrudulchaudhari" target="_blank" rel="noopener noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"  width="50" /></a>
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622"  width="50" /></a>
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img 
-src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000"  width="50" /></a>
- &nbsp; <a href="https://github.com/manasias22" target="_blank" rel="noopener noreferrer"><img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="48" /></a>
+&nbsp; <a href="https://github.com/manasias22" target="_blank" rel="noopener noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="50" /></a>  
 </p>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp;   ✍️Random Dev Quote
+> <p align="center" id="dev-quote">Updating...</p>
 
 
-
-
-
-
-
-<p align="left">
-  
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
 </p>
 
