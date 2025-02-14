@@ -1,0 +1,133 @@
+"Hard work beats talent when talent fails to work hard." ― Kevin Durant
+"Arise, awake and stop not till the goal is reached" ― Swami Vivekananda
+"A person should not be too honest. Straight trees are cut first, and honest people are screwed first."
+"Before you start some work, always ask yourself three questions—Why am I doing it? What might the results be? Will I be successful? Only when you think deeply and find satisfactory answers should you proceed."
+"Education is the best friend. An educated person is respected everywhere. Education beats beauty and youth."
+"As soon as the fear approaches near, attack and destroy it."
+"A wise man should not reveal his weaknesses to anyone, even his closest friends."
+"The fragrance of flowers spreads only in the direction of the wind. But the goodness of a person spreads in all directions."
+"A man is great by deeds, not by birth."
+"Even if a snake is not poisonous, it should pretend to be venomous."
+"Before embarking on any venture, be prepared for all possible challenges."
+"Never share your secrets with anyone. It will destroy you."
+"Purity of speech, mind, senses, and a compassionate heart are essential virtues for humanity."
+"Once you start working on something, don't be afraid of failure and don't abandon it. People who work sincerely are the happiest."
+"Do not be overly attached to your wealth, family, or belongings, for one day you will leave all of them."
+"Time perfects all things, and time destroys all things."
+"Knowledge is a treasure that follows its owner everywhere."
+"A person should learn from the mistakes of others. One cannot live long enough to make all the mistakes themselves."
+"God is not present in idols. Your feelings are your god. The soul is your temple."
+"Never make friends with people who are above or below you in status. Such friendships will never bring happiness."
+"Before judging others, judge yourself."
+"Accumulated wealth is saved by spending it. Hoarded knowledge is lost if not shared."
+"A learned man is honored everywhere, but a king is only honored in his own country."
+"Anger is the enemy of knowledge, pride is the enemy of wisdom, and greed is the enemy of contentment."
+"Do not let your desires control you; control your desires instead."
+"The biggest guru-mantra is: never share your secrets with anyone. It will destroy you."
+"The one who cannot determine his goals cannot win."
+"The biggest truth of life is that people who hate you most are the ones who secretly admire you."
+"One must strive to acquire knowledge at all costs, for it is the only true wealth that never diminishes."
+"There is some self-interest behind every friendship. There is no friendship without self-interests. This is the bitter truth."
+"A person who remains silent and does not argue is respected even by fools."
+"The world's biggest power is the youth and beauty of a woman."
+"One who cannot control his words will not be able to control his actions."
+"Even a drop of poison can make a whole pot of milk useless. Similarly, one bad friend can ruin a whole group."
+"Before you step into a battlefield, believe that you have already won."
+"Do not reveal your plans to anyone until you succeed. Let your actions speak for themselves."
+"Too much beauty attracts trouble. Too much honesty invites deception."
+"A debt, an enemy, and an illness should be eradicated as soon as possible."
+"A person who is overly attached to their family members experiences fear and sorrow, for the root of all grief is attachment."
+"Hard work never goes in vain. It may take time, but success will come."
+"Knowledge is your greatest weapon in any battle."
+"The enemy of today may be your friend tomorrow, and the friend of today may be your enemy tomorrow."
+"A wise person should not live in a place where there is no respect, no employment, no education, and no opportunity for progress."
+"If you want to win the world, silence is the best weapon."
+"Jealousy is the root cause of destruction."
+"The key to success is discipline and consistency."
+"Opportunities are like sunrises. If you wait too long, you will miss them."
+"The biggest fool is the one who repeats the same mistake and expects different results."
+"The wise do not always express what they know."
+"A person’s intelligence is known by his speech, behavior, and actions."
+"The best way to defeat your enemies is to make them your friends."
+"Control your emotions, or they will control you."
+"A weak man waits for opportunities, but a strong man creates them."
+"Do not waste time in arguments; time is the most valuable asset."
+"Talk is cheap. Show me the code." – Linus Torvalds
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+"First, solve the problem. Then, write the code." – John Johnson
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Make it work, make it right, make it fast." – Kent Beck
+"Good code is its own best documentation." – Steve McConnell
+"Simplicity is the soul of efficiency." – Austin Freeman
+"The best way to predict the future is to invent it." – Alan Kay
+"Programming is the art of algorithm design and the craft of debugging errant code." – Ellen Ullman
+"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." – Antoine de Saint-Exupéry
+"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
+"If you don’t fail at least 90% of the time, you’re not aiming high enough." – Alan Kay
+"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
+"A language that doesn’t affect the way you think about programming is not worth knowing." – Alan Perlis
+"Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." – Norman Augustine
+"Optimism is an occupational hazard of programming: feedback is the treatment." – Kent Beck
+"Code never lies, comments sometimes do." – Ron Jeffries
+"Knowledge is power, but enthusiasm pulls the switch." – Ivern Ball
+"Computers are fast; programmers keep them slow." – Unknown
+"Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime." – Muhammad Waseem
+"Before software can be reusable it first has to be usable." – Ralph Johnson
+"Bad programmers worry about the code. Good programmers worry about data structures and their relationships." – Linus Torvalds
+"Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains." – Bill Gates
+"It’s not a bug; it’s an undocumented feature." – Unknown
+"Simplicity does not precede complexity, but follows it." – Alan Perlis
+"Fix the cause, not the symptom." – Steve Maguire
+"The best error message is the one that never shows up." – Thomas Fuchs
+"There are only two kinds of programming languages: those people always bitch about and those nobody uses." – Bjarne Stroustrup
+"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code." – Dan Salomon
+"A good programmer is someone who always looks both ways before crossing a one-way street." – Doug Linder
+"You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity." – John Romero
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." – John Woods
+"Without requirements or design, programming is the art of adding bugs to an empty text file." – Louis Srygley
+"If debugging is the process of removing software bugs, then programming must be the process of putting them in." – Edsger Dijkstra
+"Writing code is not production, it’s not always craftsmanship—it’s design." – Chris Sacca
+"Software testing is a sport like hunting, it’s bug hunting." – Amit Kalantri
+"A great developer is not one who writes the most code, but one who writes the least code needed." – Unknown
+"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates
+"Code should run as fast as necessary, but no faster; something important is always traded away to increase speed." – Richard Pattis
+"Programming can be fun, so can cryptography; however, they should not be combined." – Kreitzberg and Shneiderman
+"The best code is no code at all." – Jeff Atwood
+"The only thing worse than a poorly documented system is a well-documented one that lies." – Unknown
+"Real programmers can write assembly code in any language." – Larry Wall
+"The function of good software is to make the complex appear to be simple." – Grady Booch
+"If the code and the comments do not match, possibly both are incorrect." – Norm Schryer
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." – Patrick McKenzie
+"Programming isn't about typing, it's about thinking." – Rich Hickey
+"Premature optimization is the root of all evil." – Donald Knuth
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+"All code is guilty until proven innocent." – Unknown
+"Refactoring is just practice for writing better code the first time." – Unknown
+"Keep it simple, stupid." – Unknown
+"If you're not embarrassed by the first version of your product, you’ve launched too late." – Reid Hoffman
+"The best way to get a project done faster is to start sooner." – Jim Highsmith
+"Always design a thing by considering it in its next larger context." – Eliel Saarinen
+"The purpose of software engineering is to control complexity, not to create it." – Pamela Zave
+"Simplicity is prerequisite for reliability." – Edsger Dijkstra
+"A user interface should be so simple that a beginner in an emergency can understand it." – Ted Nelson
+"The best performance improvement is the transition from the nonworking state to the working state." – J. Osterhout
+"The best software engineers are good at unlearning bad habits." – Unknown
+"Fail fast, learn faster." – Unknown
+"Software engineering is the art of making complicated things simple." – Unknown
+"Growth and comfort do not coexist." – Ginni Rometty
+"Technology is best when it brings people together." – Matt Mullenweg
+"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers." – Socrates
+"Discipline is choosing between what you want now and what you want most." – Abraham Lincoln
+"The only way to go fast is to go well." – Robert C. Martin
+"Move fast and break things. Unless you are breaking stuff, you are not moving fast enough." – Mark Zuckerberg
+"The art of debugging is figuring out what you really told your program to do instead of what you thought you told it to do." – Andrew Singer
+"Technology is nothing. What’s important is that you have faith in people." – Steve Jobs
+"A good programmer is someone who looks both ways before crossing a one-way street." – Doug Linder
+"A startup is a company designed to grow fast." – Paul Graham
+"The best software developers are the ones who constantly learn and adapt." – Unknown
+"Learning never exhausts the mind." – Leonardo da Vinci
+"The journey of a thousand miles begins with a single step." – Lao Tzu
+"The function of leadership is to produce more leaders, not more followers." – Ralph Nader
+"Do what you can, with what you have, where you are." – Theodore Roosevelt
+"Success is not the key to happiness. Happiness is the key to success." – Albert Schweitzer
+"Don’t watch the clock; do what it does. Keep going." – Sam Levenson
