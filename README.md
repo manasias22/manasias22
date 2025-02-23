@@ -347,7 +347,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 </p>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp;   ✍️Random Dev Quote
-> <p align="center" id="dev-quote">"A man is great by deeds, not by birth."</p>
+> <p align="center" id="dev-quote">"The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie</p>
 
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
