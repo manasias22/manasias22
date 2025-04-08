@@ -332,7 +332,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px">🤝 Connect with Me 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> &nbsp;  🤝 Connect with Me 
 
 <p align="center"> 
 &nbsp; <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank" rel="noopener noreferrer"><img 
@@ -346,22 +346,16 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png?20180806170715" width="50" /></a>  
 </p>
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp;   ✍️Random Dev Quote
+## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  ✍️ Random Dev Quote
 > <p align="center" id="dev-quote">"Good code is its own best documentation." – Steve McConnell</p>
 
-
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
+ 
+## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
-
-
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
   
 # Thank You for Visiting!!!
 From [manasias22](https://github.com/manasias22)
