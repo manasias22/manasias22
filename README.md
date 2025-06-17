@@ -347,7 +347,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 </p>
 
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  ✍️ Random Dev Quote
-> <p align="center" id="dev-quote">"If you don’t fail at least 90% of the time, you’re not aiming high enough." – Alan Kay</p>
+> <p align="center" id="dev-quote">"The world's biggest power is the youth and beauty of a woman."</p>
 
  
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
