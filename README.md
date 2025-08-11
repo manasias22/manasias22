@@ -347,7 +347,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 </p>
 
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  ✍️ Random Dev Quote
-> <p align="center" id="dev-quote">"Before you start some work, always ask yourself three questions—Why am I doing it? What might the results be? Will I be successful? Only when you think deeply and find satisfactory answers should you proceed."</p>
+> <p align="center" id="dev-quote">"A user interface should be so simple that a beginner in an emergency can understand it." – Ted Nelson</p>
 
  
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
