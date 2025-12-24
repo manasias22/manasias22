@@ -347,7 +347,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 </p>
 
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  ✍️ Random Dev Quote
-> <p align="center" id="dev-quote">"If the code and the comments do not match, possibly both are incorrect." – Norm Schryer</p>
+> <p align="center" id="dev-quote">"The fragrance of flowers spreads only in the direction of the wind. But the goodness of a person spreads in all directions."</p>
 
  
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
