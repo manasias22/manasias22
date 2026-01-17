@@ -347,7 +347,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-git
 </p>
 
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  ✍️ Random Dev Quote
-> <p align="center" id="dev-quote">"A user interface should be so simple that a beginner in an emergency can understand it." – Ted Nelson</p>
+> <p align="center" id="dev-quote">"Even if a snake is not poisonous, it should pretend to be venomous."</p>
 
  
 ## <img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30px"  width = 32px> &nbsp;  🤝 Show your ❤️ & Support by Starring ⭐ Some Of My Repositories</h2>
