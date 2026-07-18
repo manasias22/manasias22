@@ -104,19 +104,28 @@
 <table align="center">
  <tr align="center">
    <td align="center">
-     <img src="./assets/certificate1.png" width="100" />
+      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" />
      <br>
-     <strong>Certification Name</strong>
+     <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong>
    </td>
    <td align="center">
-     <img src="./assets/certificate2.png" width="100" />
+      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" />
      <br>
-     <strong>Certification Name</strong>
+     <strong>AWS Certified Solutions Architect - Associate</strong>
    </td>
    <td align="center">
-     <img src="./assets/certificate3.png" width="100" />
+      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+     <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-DevOps-Engineer-Professional_badge.7492bf660b5351e51f3f8015e4818924294a7e8c.png" width="100" />
      <br>
-     <strong>Certification Name</strong>
+     <strong>AWS Certified DevOps Engineer – Professional</strong>
+   </td>
+   <td align="center">
+      <a href="https://www.credly.com/badges/0e543f4e-2044-4e87-88a1-9b85875ec4ad" target="_blank">
+     <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" width="100" />
+     <br>
+     <strong>HashiCorp Certified: Terraform Associate (004)</strong>
    </td>
  </tr>
 </table>
