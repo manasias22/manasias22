@@ -74,7 +74,7 @@
   <br/>
 </h2>
 <p align="center" style="font-size: 1.1em; max-width: 800px; margin: auto;">
-  Greetings, I am Mrudul Parag Chaudhari, where ambition, curiosity, and a deep passion for Artificial Intelligence define my journey as a dedicated learner and developer. I am committed to continuous growth and driven by the desire to create intelligent systems that make a meaningful impact. My interests lie in Machine Learning, Deep Learning, and Data Science, where I enjoy building models, analyzing data, and solving complex problems. Always eager to learn, I actively explore emerging technologies and strive to push the boundaries of innovation in AI. 📈
+  Greetings, I am Mrudul Parag Chaudhari, where ambition, curiosity, and a deep passion for Artificial Intelligence define my journey as a dedicated learner and developer. I am committed to continuous growth and driven by the desire to create intelligent systems that make a meaningful impact. Currently I'm working as a Cloud & DevOps Engineer with experience in designing, deploying, and managing cloud-based infrastructure and services. My expertise includes cloud platforms such as AWS, infrastructure automation, cloud security, monitoring, and DevOps practices. I am passionate about building scalable, reliable, and cost-effective cloud solutions that help organizations accelerate their digital transformation journey. 📈
 </p>
 
 <hr/>
