@@ -3,23 +3,25 @@
   <span style="font-size: 1.2em;"> </span>
 </h1>
 
-<p align="center"> <a href="https://github.com/mridulparag1"> <img src="https://komarev.com/ghpvc/?username=mridulparag1&label=Profile%20views&color=0e75b6&style=flat" alt="mridulparag1"/> </a> 
-&nbsp &nbsp <a href="https://github.com/mridulparag1?tab=followers"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mridulparag1?color=green&logo=github&label=Followers"> </a> 
-&nbsp &nbsp </p>
+<p align="center"> 
+  <a href="https://github.com/mridulparag1"> <img src="https://komarev.com/ghpvc/?username=mridulparag1&label=Profile%20views&color=0e75b6&style=flat" alt="mridulparag1"/> </a> 
+  <a href="https://github.com/mridulparag1?tab=followers"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mridulparag1?color=green&logo=github&label=Followers"> 
+</a> 
+</p>
 
 <h3 align="center" style="font-size: 1.5em;"> 
-  🤖 A passionate AI & Machine Learning Enthusiast 🚀
+   A passionate AI, Machine Learning, Cloud Enthusiast 🚀
 </h3>
 
 <hr/>
 
 <div align="center">
  
- <h4>🎓 Bachelor of Engineering in Computer Engineering with Honors in Artificial Intelligence & Machine Learning.</h4>
+ <h4>🎓 Bachelor's in Computer Engineering with Honors in Artificial Intelligence & Machine Learning.</h4>
 
- <h4>🌐 Engaged in projects involving AI, Machine Learning, Data Science, and Cloud technologies, aiming to build intelligent and impactful solutions.</h4>
+ <h4>🌐 Engaged in projects involving AI, Machine Learning, Data Science & Cloud technologies, aiming to build intelligent and impactful solutions.</h4>
 
- <h4>🧠 Passionate about problem-solving, deep learning, and developing smart systems that can solve real-world challenges.</h4>
+ <h4>☁️ Building Scalable & Cost-Optimized Cloud Infrastructure.</h4>
 
  <h4 align="center">📧 Feel free to reach out to me via: </h4>
  
@@ -28,6 +30,7 @@
   <a href="mailto:mrudulchaudhari2203@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  
   <a href="https://www.linkedin.com/in/mridulparag1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -51,16 +54,16 @@
 
 <hr/>
 
-<h2 align="center">📦 My Technology and Frameworks ⚒️</h2>
+<h2 align="center">📦 My Skills & Technologies ⚒️</h2>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,aws,azure,gcp" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,bash,mysql" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,cpp,typescript,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,ansible" />
 </p>
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=jenkins,gitlab,git,github,prometheus,grafana" />
 </p>
 
 <br/>
